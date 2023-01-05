@@ -2,6 +2,7 @@
 - 👀 I’m interested in Exploring new technologies
 - 🌱 I’m a sophomore
 
+-I can figure out anything you throw at me ,just give me some time.😎
 
 - 📫 How to reach me :
 - linkedin: https://www.linkedin.com/in/rishabh-dubey-6a9445224/
