@@ -1,22 +1,17 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
 
-
-
-<h2 align="left">About Me ✍</h2>
+<h2 align="center">About Me ✍</h2>
 
 🚀 As a MERN stack developer, I live and breathe MongoDB, Express, React, and Node.js. I specialize in creating full-stack web and app solutions that are robust, scalable, and user-friendly.
 
 👨‍💻 With my experience in both front-end and back-end development, I have a comprehensive understanding of how to design, develop, and deploy applications that meet the highest standards of quality.
 
-💻 I'm well-versed in JavaScript and have expertise in working with libraries like Redux and Axios. My passion for coding and my love for solving complex problems drive me to create innovative solutions that make a positive impact on society.
+💻 I'm well-versed in JavaScript and have expertise in working with libraries like Redux and Axios. My passion for coding and my love for solving complex problems drive me to create solutions .
 
 📚 I'm always learning and exploring new technologies to stay up-to-date with the latest trends in the industry. When I'm not coding, you can find me reading about the newest tech innovations or attending local meetups and hackathons.
 
-<h2 align="left">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<!-- <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2> -->
 
-<p align="left">
+<!-- <p align="center">
 <a href="mailto: ritikpr307@gmail.com">
  <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
@@ -26,28 +21,35 @@
  <a href="https://twitter.com/ritikhere307">
  <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
 </a>
-</p>
+</p> -->
 
-<h2 align="left">✨Connect with me :</h2>
+<!-- <h2 align="center">✨Connect with me :</h2> -->
 <!-- ##  -->
 
-<p align="left">
-<a href="https://www.linkedin.com/in/dhruva-bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
-<a href="https://twitter.com/DhruvaBhattach2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshuk_1729" height="30" width="40" /></a>
-<a href="https://www.facebook.com/dhruva130102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinshuk banerjee" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bhattacharyadhruva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insane_engineer_1729" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhruvabhattacha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinshuk2002_king" height="30" width="40" /></a>
-<a href="https://leetcode.com/dhruvabhattacharya130102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kinshuk-code-1729" height="30" width="40" /></a>
-</p>
+<!-- <p align="cneter">
+<a href="https://www.linkedin.com/in/dhruva-bhattacharya" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshuk banerjee" height="30" width="40" />
+ </a>
+<a href="https://twitter.com/DhruvaBhattach2" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshuk_1729" height="30" width="40" />
+ </a>
+<a href="https://www.facebook.com/dhruva130102" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinshuk banerjee" height="30" width="40" />
+ </a>
+<a href="https://www.instagram.com/bhattacharyadhruva/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insane_engineer_1729" height="30" width="40" />
+ </a>
+<a href="https://www.hackerrank.com/dhruvabhattacha1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinshuk2002_king" height="30" width="40" />
+  </a>
+<a href="https://leetcode.com/dhruvabhattacharya130102/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kinshuk-code-1729" height="30" width="40" />
+  </a>
+</p> -->
 
 
 
 
-## ❤ Visitors Count 🗠:
-
-<p align = "center">
-  <img src="https://profile-counter.glitch.me/rishabh3562/count.svg" />
-</p>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
@@ -65,12 +67,12 @@
 
 <a href="https://rishabh108.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&style=flat&logoColor=#FF7139"/></a> -->
 <!-- <h2 align="center">🔭Technology Stack</h2> -->
-<h2 align="left">🔭 Technology Stack</h2>
+<h2 align="center">🔭 Technology Stack</h2>
 
-<h3 align="left">Languages </h3>
+<h3 align="center">Languages </h3>
 
 <!-- ### **Languages**: -->
-<div align="left">
+<div align="center">
 <img height=23 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&style=flat&logoColor=%23F7DF1E">&nbsp;&nbsp;
 <img height=23 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&style=flat&logoColor=white">&nbsp;&nbsp;
 <img height=23 src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&style=flat&logoColor=ffdd54">&nbsp;&nbsp;
@@ -80,9 +82,9 @@
 </div>
 
 
-<h3 align="left">Frameworks, Platforms and Libraries </h3>
+<h3 align="center">Frameworks, Platforms and Libraries </h3>
 <!-- ### **Frameworks, Platforms and Libraries**: -->
-<div align="left">
+<div align="center">
 <img height=23 src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&style=flat&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height="23" src="https://img.shields.io/badge/React_Native-282c34.svg??style=for-the-badge&logo=react&style=flat&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=23 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&style=flat&logoColor=%2361DAFB">&nbsp;&nbsp;
@@ -96,7 +98,7 @@
 <img height=23 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&style=flat&logoColor=white">&nbsp;&nbsp;
 </div>
   
-<h3 align="left">Databases </h3>
+<h3 align="center">Databases </h3>
 <!-- ### **Databases**: -->
 <div align="center">
 <img height=23 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&style=plastic&logoColor=white">&nbsp;&nbsp;
@@ -104,7 +106,7 @@
 <img height=23 src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&style=plastic&logoColor=FFFFFF&label=">&nbsp;&nbsp;
 </div>
 
-<h3 align="left">Hosting </h3>
+<h3 align="center">Hosting </h3>
 <!-- ### **Hosting**: -->
 <div align="center">
 <img height=23 src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&style=plastic&logoColor=white">&nbsp;&nbsp;
@@ -118,7 +120,7 @@
 
 <h3 align="left">Version Control </h3>
 <!-- ### **Version Control**: -->
-<div align="left">
+<div align="center">
   <a href="https://getbootstrap.com" target="_blank">
    <img height=23 src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&style=plastic&logoColor=FFFFFF&label="alt="Git"/>
   </a>
@@ -132,7 +134,7 @@
 
 
 
-<div align="left">
+<div align="center">
 
 <h2 align="left"🔥 My contribution:</h2>
 <!-- ## 🔥 My contribution: -->
@@ -146,18 +148,23 @@
   
 <!-- [![](https://github-readme-stats.vercel.app/api?username=rishabh3562&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
   [![](https://github-readme-stats.vercel.app/api/top-langs?username=rishabh3562&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Elanza-48) -->
+<h2 align="center">Thanks for Increasing My Visitors Count 🗠:</h2> 
+
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/rishabh3562/count.svg" />
+</p>
 
 </div>
 
 
-----
 
-<p align="left">
+
+<!-- <p align="left">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
-</p>
+</p> -->
 
-------
+
 
 
 <!---
