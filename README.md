@@ -118,7 +118,7 @@
    <img height=23 src="https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&style=plastic&logo=Axios&logoColor=FFFFFF&label="alt="Material Design"/>
   </a>&nbsp;&nbsp; -->
 
-<h3 align="left">Version Control </h3>
+<h3 align="center">Version Control </h3>
 <!-- ### **Version Control**: -->
 <div align="center">
   <a href="https://getbootstrap.com" target="_blank">
